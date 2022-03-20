@@ -1,2 +1,2 @@
 # terraformcloud
-Terraform for cloud instance 
+Terraform for *.cloud instances
